@@ -1,1 +1,1 @@
-# deep-generative-classifiers
+# deep generative classifiers
